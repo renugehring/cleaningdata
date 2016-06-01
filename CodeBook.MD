@@ -6,11 +6,12 @@
 Data Dictionary for tidy_data_merged.txt
 
 This is a tidy dataset that combines data and its metadata.  It has the following columns:
-1 subjectId
-2 tBodyAcc-mean-X
-3 tBodyAcc-mean-Y
-4 tBodyAcc-mean-Z
-5 tBodyAcc-std-X
+
+1.  subjectId
+2.  tBodyAcc-mean-X
+3.  tBodyAcc-mean-Y
+4.  tBodyAcc-mean-Z
+5.  tBodyAcc-std-X
 6 tBodyAcc-std-Y
 7 tBodyAcc-std-Z
 8 tGravityAcc-mean-X
