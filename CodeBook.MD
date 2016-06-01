@@ -31,24 +31,24 @@ This is a tidy dataset that combines data and its metadata.  It has the followin
 22.  tBodyGyro-mean-Z
 23.  tBodyGyro-std-X
 24.  tBodyGyro-std-Y
-25 tBodyGyro-std-Z
-26 tBodyGyroJerk-mean-X
-27 tBodyGyroJerk-mean-Y
-28 tBodyGyroJerk-mean-Z
-29 tBodyGyroJerk-std-X
-30 tBodyGyroJerk-std-Y
-31 tBodyGyroJerk-std-Z
-32 tBodyAccMag-mean
-33 tBodyAccMag-std
-34 tGravityAccMag-mean
-35 tGravityAccMag-std
-36 tBodyAccJerkMag-mean
-37 tBodyAccJerkMag-std
-38 tBodyGyroMag-mean
-39 tBodyGyroMag-std
-40 tBodyGyroJerkMag-mean
-41 tBodyGyroJerkMag-std
-42 fBodyAcc-mean-X
+tBodyGyro-std-Z
+tBodyGyroJerk-mean-X
+tBodyGyroJerk-mean-Y
+tBodyGyroJerk-mean-Z
+tBodyGyroJerk-std-X
+tBodyGyroJerk-std-Y
+tBodyGyroJerk-std-Z
+tBodyAccMag-mean
+tBodyAccMag-std
+tGravityAccMag-mean
+tGravityAccMag-std
+tBodyAccJerkMag-mean
+tBodyAccJerkMag-std
+tBodyGyroMag-mean
+tBodyGyroMag-std
+tBodyGyroJerkMag-mean
+tBodyGyroJerkMag-std
+fBodyAcc-mean-X
 43 fBodyAcc-mean-Y
 44 fBodyAcc-mean-Z
 45 fBodyAcc-std-X
